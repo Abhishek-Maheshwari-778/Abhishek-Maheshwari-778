@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Maheshwari
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://github.com/Abhishek-Maheshwari-778/Abhishek-Maheshwari-778/blob/main/Untitled%20design.png)
 
 ---
 
