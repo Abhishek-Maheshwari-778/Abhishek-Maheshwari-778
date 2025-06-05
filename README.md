@@ -5,120 +5,128 @@
 ---
 
 ## 🚀 About Me
-I am a 2nd-year **Bachelor of Computer Applications (BCA)** student at **Invertis University** with a passion for technology, data analysis, and design. My areas of expertise include:
 
-- 🌐 **Web Development** – Proficient in HTML and CSS  
-- 🐍 **Programming** – Experienced in Python  
-- 📊 **Data Analysis & Visualization** – Skilled in Excel and Power BI  
-- 🎨 **Graphic Design** – Adept with Canva  
-- 🤖 **Artificial Intelligence** – Enthusiastic about AI tools like ChatGPT, GitHub Copilot, and DeepSeek AI  
+I’m a passionate 2nd-year **Bachelor of Computer Applications (BCA)** student at **Invertis University**, currently exploring the world of **Data Analytics, Machine Learning**, and **Cloud Projects**. I love turning raw data into meaningful visual stories using Python, Power BI, and Tableau.
 
 ---
 
-## 🎓 Education
-📌 **Invertis University** (Aug 2023 - Jul 2026)  
-- **Bachelor of Computer Applications (BCA)**  
-- **Activities:**  
-   - 🏆 Technova Event Organizer (2024-25)  
-   - 🎯 Active Member of Abhiruchi (i_tech 2023-24)  
+## 🎯 Domains of Interest
+
+- 📊 **Data Analysis & Visualization** (Excel, Python, Power BI, Tableau)
+- 🤖 **Machine Learning Projects**
+- ☁️ **Cloud Labs (GCP Skill Boost)**
+- 🖥️ **Python & Web-Based Tools**
+- 🎨 **Creative Frontend Design & UI Projects**
 
 ---
 
-## 🛠️ Skills
-| **Category**           | **Skills**                                           |
-|------------------------|------------------------------------------------------|
-| **Programming**        | Python, SQL                                          |
-| **Web Technologies**   | HTML, CSS                                            |
-| **Data Analysis**      | Microsoft Excel, Power BI                            |
-| **Design Tools**       | Canva                                                |
-| **AI Tools**           | ChatGPT, GitHub Copilot, DeepSeek AI                 |
-| **Soft Skills**        | Leadership, Communication, Problem Solving           |
+## 📈 Featured Projects (with Links)
+
+### 🧠 [Retail Sales Prediction using Machine Learning](https://github.com/Abhishek-Maheshwari-778/Retail-Sales-Prediction-using-Machine-Learning)
+🔹 4th Semester college ML project  
+🔹 Performed full EDA, feature engineering & built a Random Forest model  
+🔹 Included: 3 datasets, Jupyter notebook, report, and presentation
 
 ---
 
-## 💼 Projects
-### 🏆 **1. Power BI Sales Dashboard**
-Developed a comprehensive **Sales Dashboard** using Power BI to analyze sales trends, forecast performance, and derive business insights.  
-✔️ **Data Cleaning** – Performed within Power BI  
-✔️ **DAX Queries** – Utilized for advanced calculations  
-✔️ **Interactive Visualizations** – Created user-friendly dashboards  
-✔️ **Time Series Analysis** – Conducted for accurate sales forecasting  
-
-> 📊 *This project helps businesses make data-driven decisions with precise sales insights.*  
+### 📊 [Retail Sales Analysis Project](https://github.com/Abhishek-Maheshwari-778/Retail-Sales-Analysis-Project)
+🔹 Performed sales breakdowns by product, city, branch  
+🔹 Visualized customer behavior & KPIs using Seaborn and Matplotlib  
+🔹 Focused on multi-dimensional insights with real-world datasets
 
 ---
 
-### 🌟 **2. Holi Sales Trends Analysis**
-Executed a data visualization project focused on analyzing **Holi sales trends** using Power BI.  
-✔️ **Synthetic Dataset Creation** – Generated 1,000 rows with 15 detailed columns  
-✔️ **Interactive Dashboard** – Provided insights on monthly trends, regional sales, and top-selling products  
-✔️ **Customer Feedback Trends** – Analyzed customer satisfaction patterns  
-
-> 🏅 *Optimizes sales strategies and increases profitability during festive seasons.*  
+### 📦 [E_Commerce_Sales_Dashboard](https://github.com/Abhishek-Maheshwari-778/E_Commerce_Sales_Dashboard)
+🔹 Python-based dashboard using Pandas + Seaborn  
+🔹 Visualized orders, revenue, category trends  
+🔹 Dashboard-style layout and storytelling through graphs
 
 ---
 
-### 📈 **3. Stock Portfolio Tracker**
-Developed a **Stock Portfolio Tracker** using Python during my internship at **CodeAlpha**.  
-✔️ **Real-Time Stock Performance Tracking** – Monitors current stock values  
-✔️ **Gains/Losses Calculation** – Assesses investment performance  
-✔️ **Investment Analysis** – Provides insights for better financial decisions  
-
-> 💹 *Enhanced my understanding of financial analytics and Python-based automation.*  
+### 📉 [Tableau_DataAnalytics](https://github.com/Abhishek-Maheshwari-778/Tableau_DataAnalytics)
+🔹 Banking dashboard with key insights & filters  
+🔹 Delivered a complete KPI-based Tableau workbook for decision-makers  
+🔹 Included user guide and data files
 
 ---
 
-### 🎮 **4. Hangman Game**
-Created an advanced version of the classic **Hangman game** using Python.  
-✔️ Added a graphical interface using **Tkinter**  
-✔️ Improved error handling and user feedback  
-✔️ Designed to handle different word difficulty levels  
-
-> 🎯 *A fun yet challenging project showcasing problem-solving skills.*  
+### 📍 [Madhav Store E-Commerce Analysis (Power BI)](https://github.com/Abhishek-Maheshwari-778/Madhav-Store-E-Commerce-Sales-Analysis-using-Power-BI)
+🔹 Regional store-wise dashboard using DAX + custom visuals  
+🔹 Included slicers and profit by category deep dive
 
 ---
 
-### 🎼 **5. Music Generation System**
-Developed a **Music Generation System** using Python and Tkinter.  
-✔️ Built a GUI-based music generator  
-✔️ Enhanced with data storage and playback features  
-✔️ Used Python libraries for audio processing and output  
-
-> 🎵 *Blends programming and creativity in a unique way.*  
+### 🛍️ [Mohan HoliBale Sales (Power BI)](https://github.com/Abhishek-Maheshwari-778/Mohan-HoliBale-Sales)
+🔹 Colorful festive season sales dashboard  
+🔹 Built from scratch with help of ChatGPT for structure & logic
 
 ---
 
-## 🏅 Certifications
-| **Certification**                                    | **Issued By**             |
-|------------------------------------------------------|---------------------------|
-| **Data Science 101**                                 | Cognitive Class           |
-| **Data Science Foundations - Level 1**               | IBM                       |
-| **Data Visualization Using Python**                  | IBM                       |
-| **Software Creation and Development Using AI**       | Udemy                     |
+### 📊 [SuperStore Sales (Power BI)](https://github.com/Abhishek-Maheshwari-778/SuperStore_Sales_PowerBI)
+🔹 Multi-layered dashboard for orders, returns, shipping  
+🔹 Built filters for segment, region, and sub-category performance
 
 ---
 
-## 🌟 Recent Activities
-✅ **Software Creation and Development Using AI** – Earned a certificate from Udemy.  
-➡️ [View Certificate](https://www.linkedin.com/posts/abhishek-maheshwari-220a88338_check-out-this-certificate-i-got-for-software-activity-7305196084027355137-ESDV)  
+### 🧪 [Stock Portfolio Tracker](https://github.com/Abhishek-Maheshwari-778/Stock_portfolio_tracker_2)
+🔹 Python-based script for calculating gains/losses  
+🔹 Real-time investment analysis for basic stock monitoring
 
-✅ **C COMBAT Event Organization** – Successfully organized the "C COMBAT" event at Invertis University.  
-➡️ [Read More](https://www.linkedin.com/posts/abhishek-maheshwari-220a88338_invertisuniversity-ccombat-techevent-activity-7295789156817920002-CZez)  
+---
+
+### 🧮 [CASIO Calculator (Web Project)](https://github.com/Abhishek-Maheshwari-778/CASIO_Calculator)
+🔹 Created a fully responsive virtual CASIO-style calculator  
+🔹 Clean CSS + interactive UI  
+🔹 Basic JS-based math functionality
+
+---
+
+## 🧠 Certifications
+
+| Title | Issuer |
+|-------|--------|
+| **Data Science 101** | Cognitive Class (IBM) |
+| **Data Science Foundations - Level 1** | IBM |
+| **Data Visualization using Python** | IBM |
+| **Software Creation & Dev with AI** | Udemy |
+
+---
+
+## ☁️ Cloud Learning Profiles
+
+- 🔗 [Google Cloud Profile 1](https://partner.cloudskillsboost.google/public_profiles/3bc365c1-e452-4328-9d7b-5bbd64c99f21)  
+- 🔗 [Google Cloud Profile 2](https://www.cloudskillsboost.google/public_profiles/e26d1820-fce8-4d3c-a20a-5853210cea6f)
+
+---
+
+## 💼 Skills
+
+| Category           | Tools/Technologies                          |
+|--------------------|---------------------------------------------|
+| Programming        | Python, SQL                                 |
+| Data Analysis      | Pandas, NumPy, Seaborn, Matplotlib, Excel   |
+| Dashboard Tools    | Power BI, Tableau                           |
+| Web Development    | HTML, CSS, JavaScript                       |
+| Design & Creativity| Canva, UI design                            |
+| AI Tools           | ChatGPT, GitHub Copilot, DeepSeek AI        |
 
 ---
 
 ## 🌐 Connect with Me
-📌 **LinkedIn:** [Abhishek Maheshwari](https://www.linkedin.com/in/abhishek-maheshwari-220a88338/)  
-📌 **GitHub:** [Abhishek-Maheshwari-778](https://github.com/Abhishek-Maheshwari-778)  
-📌 **Credly:** [Abhishek Maheshwari](https://www.credly.com/users/abhishek-maheshwari.cfa5f896)  
+
+- 🔗 **LinkedIn:** [linkedin.com/in/abhishekmaheshwari2436](https://www.linkedin.com/in/abhishekmaheshwari2436/)
+- 🧠 **IBM Credly:** [credly.com/users/abhishek-maheshwari.cfa5f896](https://www.credly.com/users/abhishek-maheshwari.cfa5f896)
+- 🐙 **GitHub:** [github.com/Abhishek-Maheshwari-778](https://github.com/Abhishek-Maheshwari-778)
 
 ---
 
 ## 🎯 Fun Fact
-💡 *I enjoy exploring the intersection of **technology and creativity**, often finding innovative ways to visualize data and tell compelling stories through design.*  
+
+💡 *I love exploring the intersection of design and data — whether it’s through a clean dashboard, a smart ML model, or a fun calculator UI.*
 
 ---
 
-## ⭐ Thank You for Visiting!
-If you like my work, feel free to ⭐️ my repositories!  
-🌱 *Let's connect and create something amazing together!*  
+## ⭐ Thank You for Visiting
+
+If you found my projects useful or inspiring, please give them a ⭐.  
+Let’s connect, collaborate, and build amazing things together!
