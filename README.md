@@ -107,9 +107,10 @@ I’m a passionate 2nd-year **Bachelor of Computer Applications (BCA)** student 
 | Data Analysis      | Pandas, NumPy, Seaborn, Matplotlib, Excel   |
 | Dashboard Tools    | Power BI, Tableau                           |
 | Web Development    | HTML, CSS, JavaScript                       |
-| Design & Creativity| Canva, UI design                            |
-| AI Tools           | ChatGPT, GitHub Copilot, DeepSeek AI        |
-
+| Design & Creativity| Canva, PowerPoint                           |
+| AI Tools           | ChatGPT, GitHub Copilot, DeepSeek AI, Gemini|
+| More Tools         | Jupyter Notebook,MySQL Workbench, VS code   |
+|                    | Google Colab, Pycharm, Windsurf, Filmora    |
 ---
 
 ## 🌐 Connect with Me
