@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate 2nd-year **Bachelor of Computer Applications (BCA)** student at **Invertis University**, currently exploring the world of **Data Analytics, Machine Learning**, and **Cloud Projects**. I love turning raw data into meaningful visual stories using Python, Power BI, and Tableau.
+I’m a passionate 3nd-year **Bachelor of Computer Applications (BCA)** student at **Invertis University**, currently exploring the world of **Data Analytics, Machine Learning**, and **Cloud Projects**. I love turning raw data into meaningful visual stories using Python, Power BI, and Tableau.
 
 ---
 
