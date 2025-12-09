@@ -19,26 +19,14 @@ and build small full-stack tools.
 
 ## 🎯 Skill Highlights
 
-### 📊 Data Analytics & Visualization
-- Excel (Advanced), Power BI  
-- Python Libraries: Pandas, NumPy, Matplotlib, Seaborn  
-- Data Cleaning, EDA, Dashboarding  
-- Reporting & Insights Generation  
+## 🎯 Skills
 
-### 💻 Programming
-- Python (Scripts, Automation, Analytics)  
-- SQL (Joins, Subqueries, Aggregations)  
-- Jupyter Notebook, VS Code, Google Colab  
-
-### 🌐 Web Development (Basics)
-- HTML, CSS, JavaScript  
-- MERN Basics (MongoDB, Express.js, React.js, Node.js – beginner level)  
-
-### 🛠 Tools & Platforms
-- MySQL Workbench  
-- Git & GitHub  
-- Canva, PowerPoint  
-- VS Code, Jupyter Notebook, Google Colab
+**Data Analytics:** Excel, Power BI, Python (Pandas, NumPy), EDA  
+**Visualization:** Matplotlib, Seaborn, Tableau  
+**Programming:** Python, SQL  
+**Databases:** MySQL  
+**Web Basics:** HTML, CSS, JavaScript, MERN (Basics)  
+**Tools:** GitHub, VS Code, Jupyter, Canva  
 
 ---
 
@@ -60,10 +48,6 @@ and build small full-stack tools.
 ### 📉 **Banking Dashboard (Tableau)**
 - KPIs, slicers & interactive views  
 ➡️ Repo: *Tableau_DataAnalytics*
-
-### 🧮 **Stock Portfolio Tracker (Python)**
-- Calculates gains, losses & portfolio performance  
-➡️ Repo: *Stock_portfolio_tracker_2*
 
 ### 🎮 **Hangman Game (Python)**  
 - Fun text-based project made during internship  
