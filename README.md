@@ -18,9 +18,6 @@ and build small full-stack tools.
 ---
 
 ## 🎯 Skill Highlights
-
-## 🎯 Skills
-
 **Data Analytics:** Excel, Power BI, Python (Pandas, NumPy), EDA  
 **Visualization:** Matplotlib, Seaborn, Tableau  
 **Programming:** Python, SQL  
