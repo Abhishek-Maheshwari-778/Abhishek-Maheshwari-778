@@ -51,7 +51,6 @@ I’m a final-year BCA student at Invertis University. I’m passionate about bu
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Maheshwari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishekmaheshwari2436)  
-[![GitHub](https://img.shields.io/badge/GitHub-Abhishek-Maheshwari-333?style=flat&logo=github)](https://github.com/Abhishek-Maheshwari-778)  
 [![Credly](https://img.shields.io/badge/Certifications-Credly-lightgrey?style=flat&logo=credly)](https://www.credly.com/users/abhishek-maheshwari.cfa5f896)
 
 ---
