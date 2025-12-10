@@ -31,16 +31,8 @@ I’m a final-year BCA student at Invertis University. I’m passionate about bu
 | **Hangman Game (Python)** | Simple console-based game made during internship — a fun way to sharpen Python basics |
 | **Stock Portfolio Tracker (Python)** | Python script to track gains/losses — a basic personal-finance tracking tool |
 
-> 🔗 Explore these and more in my GitHub repos — feedback and ⭐ are always welcome!
-
 ---
 
-## 🎓 Certifications 
-
-- **Data Science 101** — IBM  
-- **Data Science Foundations** — IBM  
-- **Data Visualization using Python** — IBM  
-- **Software Creation & AI Development** — Udemy  
 
 **Cloud Learning:**  
 - 🔗 [Google Cloud Profile 1](https://partner.cloudskillsboost.google/public_profiles/3bc365c1-e452-4328-9d7b-5bbd64c99f21)  
@@ -56,7 +48,7 @@ I’m a final-year BCA student at Invertis University. I’m passionate about bu
 ---
 
 ## 🎯 Fun Fact 💡  
-*I love exploring the intersection of design and data — whether it’s through a clean dashboard, a smart ML model, or a fun calculator UI.*
+*I love blending design with data — whether it’s building clean dashboards, smart automations, or simple and intuitive UIs.*
 
 ---
 
