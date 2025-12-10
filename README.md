@@ -10,14 +10,13 @@ I’m a final-year BCA student at Invertis University. I’m passionate about bu
 
 ---
 
-## 🛠️ Skills & Technologies  
-
-- **Data Analytics & Visualization:** Python (Pandas, NumPy), Excel, Power BI, Tableau  
-- **Programming & Scripting:** Python, SQL, JavaScript, HTML, CSS  
+## 🎯 Skill Highlights
+- **Data Analytics:** Excel, Power BI, Python (Pandas, NumPy), EDA  
+- **Visualization:** Matplotlib, Seaborn, Tableau  
+- **Programming:** Python, SQL  
 - **Databases:** MySQL  
-- **Web Development (Basics):** MERN-stack (MongoDB, Express, React, Node), HTML, CSS, JS  
-- **Tools & IDEs:** GitHub, VS Code, Jupyter Notebook, Git  
-- **Other Tools:** Canva, Excel, Automation & Dashboard Tools  
+- **Web Basics:** HTML, CSS, JavaScript, MERN (Basics)  
+- **Tools:** GitHub, VS Code, Jupyter, Canva  
 
 ---
 
