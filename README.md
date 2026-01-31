@@ -462,52 +462,7 @@ Interactive number guessing game built with Python.
 </tr>
 </table>
 
----
 
-## Python Applications & Tools
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Club Member Management System
-**Python | Database Management**
-
-Comprehensive system for managing club memberships, activities, and member information.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Club_Member_Management_System)
-
-</td>
-<td width="50%" valign="top">
-
-### BCA Section Management
-**Python | Academic Administration**
-
-Student section management system for academic administration and course organization.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/BCA_Section_Management)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Samadhan Portal
-**Web Application | Problem Resolution**
-
-Problem resolution portal for handling queries and providing solutions efficiently.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Samadhan_Portal)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
----
 
 ## GitHub Statistics
 
