@@ -13,7 +13,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 ```javascript
 const abhishek = {
@@ -45,9 +45,11 @@ const abhishek = {
 
 ## Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Data Analytics & BI**
+**Data Analytics & Business Intelligence**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -55,22 +57,36 @@ const abhishek = {
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
 
 **Programming & Databases**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **Web Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 **Tools & Platforms**
 
@@ -80,44 +96,81 @@ const abhishek = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## Power BI & Data Analytics Projects
+## Data Analytics & Business Intelligence Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Real-Time Uber Analytics Dashboard
-**Power BI | DAX | Excel**
+### SuperStore Sales Power BI Dashboard
+**Power BI | DAX | Data Visualization**
 
-Comprehensive trip data analysis with interactive visualizations, geospatial intelligence, and revenue insights.
+Interactive Power BI dashboard analyzing sales, profits, discounts, and shipping trends across regions with DAX formulas and KPIs.
 
 **Key Features:**
-- Interactive geospatial maps
-- Revenue breakdown by vehicle type
-- Real-time KPI tracking
-- Advanced DAX measures
+- Total Sales & Profit Margins
+- Regional performance analysis
+- Top Categories tracking
+- Interactive visualizations
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/SuperStore_Sales_PowerBI)
 
 </td>
 <td width="50%" valign="top">
 
 ### Retail Sales Analysis
-**Python | Pandas | Seaborn**
+**Python | Pandas | NumPy**
 
-Multi-level exploratory data analysis using Pandas & Seaborn, analyzing product & category performance patterns.
+Data cleaning, transformation, and analysis on large retail dataset generating sales trends, regional performance, and product category breakdowns.
 
 **Key Features:**
-- Product performance analysis
-- Category trend analysis
-- Statistical visualizations
-- Sales forecasting
+- Sales trends analysis
+- Regional performance metrics
+- Product category insights
+- Strategic business insights
 
 [![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Retail_Sales_Analysis_Project)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Pizza Sales Data Analysis
+**SQL | MySQL**
+
+Analyzed pizza sales data using MySQL to identify trends like peak order times, top pizzas, and customer preferences using aggregate functions, JOINS, and CTEs.
+
+**Key Features:**
+- Customer behavior analysis
+- Peak hours identification
+- Top-selling items tracking
+- Business KPIs extraction
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Pizza_Sales_Data_Analysis_Using_SQL)
+
+</td>
+<td width="50%" valign="top">
+
+### Vrinda Store Report
+**Microsoft Excel | Pivot Tables**
+
+Interactive Excel dashboard tracking monthly sales, profits, and top-performing products using Pivot Tables, VLOOKUP, Conditional Formatting, and Charts.
+
+**Key Features:**
+- Monthly sales tracking
+- Profit analysis
+- Top products identification
+- Visual business insights
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Vrinda_Store_Report_Using_Excel)
 
 </td>
 </tr>
@@ -128,7 +181,7 @@ Multi-level exploratory data analysis using Pandas & Seaborn, analyzing product 
 ### E-Commerce Sales Dashboard
 **Python | Matplotlib | Plotly**
 
-Dashboard visualizing orders, revenue & category trends using Python data libraries with interactive plots.
+Dashboard visualizing orders, revenue & category trends using Python data libraries with interactive plots and comprehensive business metrics.
 
 **Key Features:**
 - Order trend analysis
@@ -141,45 +194,10 @@ Dashboard visualizing orders, revenue & category trends using Python data librar
 </td>
 <td width="50%" valign="top">
 
-### Pizza Sales Data Analysis
-**SQL | MySQL**
-
-SQL-based analysis of pizza sales data with complex queries for business insights and trend identification.
-
-**Key Features:**
-- Complex SQL queries
-- Sales trend analysis
-- Product performance metrics
-- Business intelligence insights
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Pizza_Sales_Data_Analysis_Using_SQL)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Vrinda Store Report
-**Microsoft Excel | Pivot Tables**
-
-Comprehensive sales report and dashboard built entirely in Microsoft Excel with pivot tables and charts.
-
-**Key Features:**
-- Excel pivot tables
-- Dynamic charts
-- Sales metrics
-- Performance dashboards
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Vrinda_Store_Report_Using_Excel)
-
-</td>
-<td width="50%" valign="top">
-
 ### COVID-19 Data Analysis
 **Python | Data Visualization**
 
-Visualization and analysis of COVID-19 data using Python with time-series analysis and geographical insights.
+Analyzed COVID-19 datasets to visualize cases, trends, and insights using time-series analysis and geographical visualization.
 
 **Key Features:**
 - Time-series analysis
@@ -195,10 +213,73 @@ Visualization and analysis of COVID-19 data using Python with time-series analys
 <tr>
 <td width="50%" valign="top">
 
-### Retail Sales Prediction ML
+### Walmart Sales Analysis
+**Python | Data Analytics**
+
+Exploratory data analysis to identify sales patterns, trends, and seasonal patterns with comprehensive performance metrics.
+
+**Key Features:**
+- Sales pattern identification
+- Trend analysis
+- Seasonal insights
+- Performance tracking
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/walmart_sales_project)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Machine Learning & Deep Learning Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Potato Disease Classification
+**Deep Learning | CNN | TensorFlow**
+
+Built a convolutional neural network to classify potato leaf diseases from images with image preprocessing and CNN architecture design.
+
+**Key Features:**
+- Image preprocessing
+- CNN architecture
+- Disease classification
+- Performance evaluation
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Potato_Disease_Classification)
+
+</td>
+<td width="50%" valign="top">
+
+### Image Captioning & Segmentation
+**Computer Vision | Deep Learning**
+
+Implemented image captioning and segmentation using computer vision techniques with visual-to-text mapping and image understanding pipelines.
+
+**Key Features:**
+- Image captioning
+- Image segmentation
+- Visual-to-text mapping
+- Computer vision techniques
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Image_Captioning_and_Segmentation_App)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Retail Sales Prediction
 **Machine Learning | Scikit-learn**
 
-Machine learning model for predicting retail sales using regression algorithms and feature engineering.
+Built ML models to predict retail sales using historical data with feature engineering and regression analysis.
 
 **Key Features:**
 - ML regression models
@@ -211,18 +292,18 @@ Machine learning model for predicting retail sales using regression algorithms a
 </td>
 <td width="50%" valign="top">
 
-### Walmart Sales Analysis
-**Python | Data Analytics**
+### Time Series Stock Market
+**Python | Time Series Analysis**
 
-Analysis of Walmart sales data with trend analysis, seasonal patterns, and performance metrics.
+Analyzed stock market trends using historical price data with time-series analysis techniques for forecasting insights.
 
 **Key Features:**
-- Seasonal pattern analysis
-- Trend identification
-- Performance metrics
-- Data-driven insights
+- Time-series analysis
+- Stock trend prediction
+- Forecasting models
+- Historical data analysis
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/walmart_sales_project)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Time_Series_Stock_Market)
 
 </td>
 </tr>
@@ -230,7 +311,7 @@ Analysis of Walmart sales data with trend analysis, seasonal patterns, and perfo
 
 ---
 
-## Web Development Projects
+## Featured Web Development Projects
 
 <table>
 <tr>
@@ -272,97 +353,7 @@ Educational platform website with course information, student resources, and int
 
 ---
 
-## Machine Learning & AI Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Potato Disease Classification
-**TensorFlow | CNN | Image Classification**
-
-Machine learning model for identifying potato plant diseases using convolutional neural networks and image classification.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Potato_Disease_Classification)
-
-</td>
-<td width="50%" valign="top">
-
-### Image Captioning & Segmentation
-**Deep Learning | Computer Vision**
-
-AI-powered application for generating captions and segmenting images using deep learning models.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Image_Captioning_and_Segmentation_App)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Time Series Stock Market Analysis
-**Python | Time Series | Forecasting**
-
-Stock market prediction and analysis using time series analysis techniques and forecasting models.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Time_Series_Stock_Market)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
----
-
-## Management Systems & Applications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Club Member Management System
-**Python | Database Management**
-
-Comprehensive system for managing club memberships, activities, and member information.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Club_Member_Management_System)
-
-</td>
-<td width="50%" valign="top">
-
-### BCA Section Management
-**Python | Academic Administration**
-
-Student section management system for academic administration and course organization.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/BCA_Section_Management)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Samadhan Portal
-**Web Application | Problem Resolution**
-
-Problem resolution portal for handling queries and providing solutions efficiently.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Samadhan_Portal)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
----
-
-## Other Web Applications
+## Additional Web Projects & Applications
 
 <table>
 <tr>
@@ -466,6 +457,51 @@ Chat application user interface with modern design and messaging features.
 Interactive number guessing game built with Python.
 
 [![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Number_Guessing_Game)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Python Applications & Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Club Member Management System
+**Python | Database Management**
+
+Comprehensive system for managing club memberships, activities, and member information.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Club_Member_Management_System)
+
+</td>
+<td width="50%" valign="top">
+
+### BCA Section Management
+**Python | Academic Administration**
+
+Student section management system for academic administration and course organization.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/BCA_Section_Management)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Samadhan Portal
+**Web Application | Problem Resolution**
+
+Problem resolution portal for handling queries and providing solutions efficiently.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Samadhan_Portal)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
