@@ -378,6 +378,10 @@ Educational platform website with course information, student resources, and int
 
 ## Let's Connect and Collaborate
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!;Open+to+new+opportunities!" alt="Typing SVG" />
+
+<br/>
+
 **If you found my projects useful, please consider giving them a star!**
 
 [![Follow Me](https://img.shields.io/github/followers/Abhishek-Maheshwari-778?label=Follow%20Me&style=social)](https://github.com/Abhishek-Maheshwari-778)
@@ -388,9 +392,15 @@ Educational platform website with course information, student resources, and int
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Maheshwari-778&custom_title=Abhishek's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area_color=7F3FBF&title_color=FFFFFF&area=true" alt="Contribution Graph" width="95%">
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
