@@ -276,10 +276,9 @@ Educational platform website with course information, student resources, and int
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Maheshwari-778&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Maheshwari-778&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Maheshwari-778&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="48%" />
+[![GitHub followers](https://img.shields.io/github/followers/Abhishek-Maheshwari-778?label=Followers&style=for-the-badge&color=blue)](https://github.com/Abhishek-Maheshwari-778)
+[![GitHub stars](https://img.shields.io/github/stars/Abhishek-Maheshwari-778?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/Abhishek-Maheshwari-778?tab=repositories)
+[![GitHub repos](https://img.shields.io/badge/Public%20Repos-30+-green?style=for-the-badge)](https://github.com/Abhishek-Maheshwari-778?tab=repositories)
 
 </div>
 
