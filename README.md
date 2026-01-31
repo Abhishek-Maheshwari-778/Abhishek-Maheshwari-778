@@ -26,14 +26,11 @@
 
 ### Currently Exploring
 
-```python
-learning_journey = {
-    "advanced_skills": ["DAX Measures", "Time Series Analysis", "Deep Learning"],
-    "cloud_platforms": ["Google Cloud Platform", "Azure"],
-    "web_technologies": ["React.js", "Node.js", "MongoDB"],
-    "goal": "Become a Full-Stack Data Scientist"
-}
-```
+- Advanced DAX Measures & Power BI
+- Time Series Analysis & Deep Learning
+- Cloud Platforms (Google Cloud Platform, Azure)
+- Full-Stack Web Development (React.js, Node.js, MongoDB)
+- Goal: Become a Full-Stack Data Scientist
 
 ### Fun Fact
 
