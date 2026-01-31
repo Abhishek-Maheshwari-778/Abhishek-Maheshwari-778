@@ -13,31 +13,31 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```javascript
-const abhishek = {
-    role: "Data Analyst & Python Developer",
-    education: "Final Year BCA @ Invertis University",
-    location: "Bareilly, India",
-    
-    expertise: [
-        "Data Analytics & Visualization",
-        "Power BI & Tableau",
-        "Python (Pandas, NumPy, Scikit-learn)",
-        "SQL & MySQL",
-        "Web Development (MERN Stack)"
-    ],
-    
-    currentlyLearning: [
-        "Advanced DAX Measures",
-        "Cloud Computing (GCP)",
-        "Full Stack Development"
-    ],
-    
-    funFact: "I love blending design with data!"
-};
+**Hey there!** I'm a **final-year BCA student** at Invertis University, passionate about turning raw data into meaningful stories. I specialize in building **data-driven solutions**, creating **interactive dashboards**, and developing **clean web applications**.
+
+### What I Do
+
+- **Data Analytics**: Transform complex datasets into actionable insights using Python, SQL, and Excel
+- **Business Intelligence**: Build stunning dashboards in Power BI & Tableau with advanced DAX
+- **Machine Learning**: Develop predictive models and deep learning solutions
+- **Web Development**: Create full-stack applications using MERN stack
+
+### Currently Exploring
+
+```python
+learning_journey = {
+    "advanced_skills": ["DAX Measures", "Time Series Analysis", "Deep Learning"],
+    "cloud_platforms": ["Google Cloud Platform", "Azure"],
+    "web_technologies": ["React.js", "Node.js", "MongoDB"],
+    "goal": "Become a Full-Stack Data Scientist"
+}
 ```
+
+### Fun Fact
+
+> *I believe the best insights come from blending beautiful design with powerful data!*
 
 <br clear="right"/>
 
