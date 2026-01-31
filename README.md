@@ -389,29 +389,9 @@ Educational platform website with course information, student resources, and int
 
 <div align="center">
 
-## GitHub Contribution Snake
+## Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/Abhishek-Maheshwari-778/Abhishek-Maheshwari-778/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Abhishek-Maheshwari-778&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Maheshwari-778&custom_title=Abhishek's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Maheshwari-778&custom_title=Abhishek's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area_color=7F3FBF&title_color=FFFFFF&area=true" alt="Contribution Graph" width="95%">
 
 </div>
 
