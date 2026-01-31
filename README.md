@@ -272,6 +272,207 @@ Educational platform website with course information, student resources, and int
 
 ---
 
+## Machine Learning & AI Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Potato Disease Classification
+**TensorFlow | CNN | Image Classification**
+
+Machine learning model for identifying potato plant diseases using convolutional neural networks and image classification.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Potato_Disease_Classification)
+
+</td>
+<td width="50%" valign="top">
+
+### Image Captioning & Segmentation
+**Deep Learning | Computer Vision**
+
+AI-powered application for generating captions and segmenting images using deep learning models.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Image_Captioning_and_Segmentation_App)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Time Series Stock Market Analysis
+**Python | Time Series | Forecasting**
+
+Stock market prediction and analysis using time series analysis techniques and forecasting models.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Time_Series_Stock_Market)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Management Systems & Applications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Club Member Management System
+**Python | Database Management**
+
+Comprehensive system for managing club memberships, activities, and member information.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Club_Member_Management_System)
+
+</td>
+<td width="50%" valign="top">
+
+### BCA Section Management
+**Python | Academic Administration**
+
+Student section management system for academic administration and course organization.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/BCA_Section_Management)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Samadhan Portal
+**Web Application | Problem Resolution**
+
+Problem resolution portal for handling queries and providing solutions efficiently.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Samadhan_Portal)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Other Web Applications
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### CampusMart E-Commerce
+**React | Node.js | MongoDB**
+
+Full-featured e-commerce platform for campus marketplace with product listings and shopping cart.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://campus-mart-e-commerce-website.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/CampusMart_E-Commerce_Website)
+
+</td>
+<td width="33%" valign="top">
+
+### Portfolio Website
+**HTML | CSS | JavaScript**
+
+Personal portfolio showcasing projects, skills, and professional experience.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://first-portfileo.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/first_portfileo)
+
+</td>
+<td width="33%" valign="top">
+
+### Basic Portfolio Website
+**HTML | CSS | JavaScript**
+
+Clean and minimal portfolio website with project cards and contact information.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://basic-portfolio-website-dun.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Basic_Portfolio_Website)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### Friendship Fun Website
+**HTML | CSS | JavaScript**
+
+Interactive friendship-themed website with fun features and engaging UI.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://friendship-with-me.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Friendship_Fun_Website)
+
+</td>
+<td width="33%" valign="top">
+
+### CASIO Calculator
+**HTML | CSS | JavaScript**
+
+Calculator application mimicking CASIO functionality with scientific operations.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://casio-calculator-chi.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/CASIO_Calculator)
+
+</td>
+<td width="33%" valign="top">
+
+### Prince Electronics Website
+**HTML | CSS | JavaScript**
+
+Business website for electronics shop with product catalog and chatbot.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://princeelectronicsbilsi.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Prince-Electronics-And-Electricals-Near-Sbi-Bilsi_website)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### StreamBharat
+**Web Application | Video Streaming**
+
+Video streaming platform interface with content browsing and playback features.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/StreamBharat)
+
+</td>
+<td width="33%" valign="top">
+
+### Simple ChatApp UI
+**HTML | CSS | JavaScript**
+
+Chat application user interface with modern design and messaging features.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Simple_ChatApp_UI)
+
+</td>
+<td width="33%" valign="top">
+
+### Number Guessing Game
+**Python | Interactive Game**
+
+Interactive number guessing game built with Python.
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Number_Guessing_Game)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## GitHub Statistics
 
 <div align="center">
