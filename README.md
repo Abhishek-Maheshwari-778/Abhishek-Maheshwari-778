@@ -1,274 +1,317 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=ABHISHEK%20MAHESHWARI&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Transforming%20Data%20Into%20Insights&descAlignY=55&descSize=25" width="100%"/>
-</p>
+<div align="center">
 
-<h3 align="center">Data Analyst | Python Developer | Power BI Specialist | Web Developer</h3>
-<h4 align="center">Final Year BCA @ Invertis University</h4>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Maheshwari&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20|%20Python%20Developer%20|%20Power%20BI%20Specialist&descSize=20&descAlignY=55)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishekmaheshwari2436"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://abhishek-maheshwari-778.github.io/Ultimate_GitHub_Profile_Collection_website/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.credly.com/users/abhishek-maheshwari.cfa5f896"><img src="https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Abhishek-Maheshwari-778&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekmaheshwari2436)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-maheshwari-778.github.io/Ultimate_GitHub_Profile_Collection_website/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abhishek-maheshwari.cfa5f896)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Maheshwari-778&label=Profile%20Views&color=0e75b6&style=flat)
 
-<br/>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
+---
 
 ## About Me
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```yaml
-name: Abhishek Maheshwari
-located_in: Bareilly, India
-current_role: Data Analyst & Python Developer
-education: Final Year BCA Student
-university: Invertis University
-
-fields_of_interests:
-  - Data Analytics
-  - Business Intelligence
-  - Machine Learning
-  - Web Development
-  
-technical_skills:
-  - Power BI & Tableau
-  - Python (Pandas, NumPy, Scikit-learn)
-  - SQL & MySQL
-  - MERN Stack Development
-  
-currently_learning:
-  - Advanced DAX Measures
-  - Cloud Computing (GCP)
-  - Full Stack Development
+```javascript
+const abhishek = {
+    role: "Data Analyst & Python Developer",
+    education: "Final Year BCA @ Invertis University",
+    location: "Bareilly, India",
+    
+    expertise: [
+        "Data Analytics & Visualization",
+        "Power BI & Tableau",
+        "Python (Pandas, NumPy, Scikit-learn)",
+        "SQL & MySQL",
+        "Web Development (MERN Stack)"
+    ],
+    
+    currentlyLearning: [
+        "Advanced DAX Measures",
+        "Cloud Computing (GCP)",
+        "Full Stack Development"
+    ],
+    
+    funFact: "I love blending design with data!"
+};
 ```
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<br/>
+## Tech Stack
 
-## Tech Arsenal
+<div align="center">
 
-<details>
-<summary><b>Click to expand tech stack</b></summary>
-<br/>
+**Data Analytics & BI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Programming & Databases**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## Power BI & Data Analytics Projects
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Data Analytics & BI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r" />
-  <br/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-</p>
+### Real-Time Uber Analytics Dashboard
+**Power BI | DAX | Excel**
+
+Comprehensive trip data analysis with interactive visualizations, geospatial intelligence, and revenue insights.
+
+**Key Features:**
+- Interactive geospatial maps
+- Revenue breakdown by vehicle type
+- Real-time KPI tracking
+- Advanced DAX measures
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project)
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express" />
-  <br/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+### Retail Sales Analysis
+**Python | Pandas | Seaborn**
+
+Multi-level exploratory data analysis using Pandas & Seaborn, analyzing product & category performance patterns.
+
+**Key Features:**
+- Product performance analysis
+- Category trend analysis
+- Statistical visualizations
+- Sales forecasting
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Retail_Sales_Analysis_Project)
 
 </td>
 </tr>
-<tr>
-<td valign="top" width="50%">
 
-### Database & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-  <br/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+<tr>
+<td width="50%" valign="top">
+
+### E-Commerce Sales Dashboard
+**Python | Matplotlib | Plotly**
+
+Dashboard visualizing orders, revenue & category trends using Python data libraries with interactive plots.
+
+**Key Features:**
+- Order trend analysis
+- Revenue visualization
+- Category performance
+- Interactive charts
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Ecommerce_Sales_Analysis_Dashboard)
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <br/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
-</p>
+### Pizza Sales Data Analysis
+**SQL | MySQL**
+
+SQL-based analysis of pizza sales data with complex queries for business insights and trend identification.
+
+**Key Features:**
+- Complex SQL queries
+- Sales trend analysis
+- Product performance metrics
+- Business intelligence insights
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Pizza_Sales_Data_Analysis_Using_SQL)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Vrinda Store Report
+**Microsoft Excel | Pivot Tables**
+
+Comprehensive sales report and dashboard built entirely in Microsoft Excel with pivot tables and charts.
+
+**Key Features:**
+- Excel pivot tables
+- Dynamic charts
+- Sales metrics
+- Performance dashboards
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Vrinda_Store_Report_Using_Excel)
+
+</td>
+<td width="50%" valign="top">
+
+### COVID-19 Data Analysis
+**Python | Data Visualization**
+
+Visualization and analysis of COVID-19 data using Python with time-series analysis and geographical insights.
+
+**Key Features:**
+- Time-series analysis
+- Geographical visualization
+- Trend prediction
+- Statistical modeling
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/COVID_19_Data_Analysis_Visualization)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Retail Sales Prediction ML
+**Machine Learning | Scikit-learn**
+
+Machine learning model for predicting retail sales using regression algorithms and feature engineering.
+
+**Key Features:**
+- ML regression models
+- Feature engineering
+- Sales forecasting
+- Model optimization
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Retail_Sales_Prediction_Using_Machine_Learning)
+
+</td>
+<td width="50%" valign="top">
+
+### Walmart Sales Analysis
+**Python | Data Analytics**
+
+Analysis of Walmart sales data with trend analysis, seasonal patterns, and performance metrics.
+
+**Key Features:**
+- Seasonal pattern analysis
+- Trend identification
+- Performance metrics
+- Data-driven insights
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/walmart_sales_project)
 
 </td>
 </tr>
 </table>
 
-</details>
+---
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## Power BI & Analytics Showcase
-
-<div align="center">
-
-| Project | Tech Stack | Highlights |
-|---------|-----------|-----------|
-| **[Real-Time Uber Analytics](https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project)** | Power BI, DAX, Excel | Interactive geospatial maps • Revenue breakdown • Real-time KPIs |
-| **[Retail Sales Analysis](https://github.com/Abhishek-Maheshwari-778/Retail_Sales_Analysis_Project)** | Python, Pandas, Seaborn | Product performance • Statistical insights • Trend forecasting |
-| **[E-Commerce Dashboard](https://github.com/Abhishek-Maheshwari-778/Ecommerce_Sales_Analysis_Dashboard)** | Python, Matplotlib, Plotly | Order trends • Revenue metrics • Interactive visualizations |
-| **[Pizza Sales Analysis](https://github.com/Abhishek-Maheshwari-778/Pizza_Sales_Data_Analysis_Using_SQL)** | SQL, MySQL | Complex queries • Business intelligence • Performance optimization |
-| **[Vrinda Store Report](https://github.com/Abhishek-Maheshwari-778/Vrinda_Store_Report_Using_Excel)** | Excel, Pivot Tables | Dynamic dashboards • Advanced formulas • Sales metrics |
-| **[COVID-19 Analysis](https://github.com/Abhishek-Maheshwari-778/COVID_19_Data_Analysis_Visualization)** | Python, Visualization | Time-series analysis • Geographical insights • Trend prediction |
-| **[Retail Sales ML](https://github.com/Abhishek-Maheshwari-778/Retail_Sales_Prediction_Using_Machine_Learning)** | ML, Scikit-learn | Regression models • Feature engineering • Sales forecasting |
-| **[Walmart Sales](https://github.com/Abhishek-Maheshwari-778/walmart_sales_project)** | Python, Analytics | Seasonal patterns • Trend analysis • Performance metrics |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## Live Web Projects
-
-<div align="center">
+## Web Development Projects
 
 <table>
 <tr>
-<td align="center" width="33%">
-<a href="https://ultimate-git-hub-profile-collection.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Maheshwari-778&repo=Ultimate_GitHub_Profile_Collection_website&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
-<br/><br/>
-<b>Ultimate GitHub Profile Collection</b>
-<br/>
-<sub>400+ animated assets • 15+ templates • Instant search</sub>
-<br/><br/>
-<a href="https://ultimate-git-hub-profile-collection.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-667eea?style=for-the-badge" />
-</a>
-</td>
+<td width="33%" valign="top">
 
-<td align="center" width="33%">
-<a href="https://mcxindia.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Maheshwari-778&repo=mcx_website&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
-<br/><br/>
-<b>MCX Trading Platform</b>
-<br/>
-<sub>Live market data • Calculators • Real-time news</sub>
-<br/><br/>
-<a href="https://mcxindia.netlify.app">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-667eea?style=for-the-badge" />
-</a>
-</td>
+### Ultimate GitHub Profile Collection
+**HTML | CSS | JavaScript**
 
-<td align="center" width="33%">
-<a href="https://invertea-learner-website.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Maheshwari-778&repo=Invertea_Learner_Website&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
-<br/><br/>
-<b>Invertea Learning Platform</b>
-<br/>
-<sub>Course information • Student resources • Interactive UI</sub>
-<br/><br/>
-<a href="https://invertea-learner-website.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-667eea?style=for-the-badge" />
-</a>
+A curated collection of 400+ animated assets and 15+ templates for creating stunning GitHub profiles.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ultimate-git-hub-profile-collection.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Ultimate_GitHub_Profile_Collection_website)
+
+</td>
+<td width="33%" valign="top">
+
+### MCX Trading Website
+**HTML | CSS | JavaScript | API**
+
+Commodity trading information website with live market data, calculators, and real-time news integration.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://mcxindia.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/mcx_website)
+
+</td>
+<td width="33%" valign="top">
+
+### Invertea Learner Website
+**HTML | CSS | JavaScript**
+
+Educational platform website with course information, student resources, and interactive learning materials.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://invertea-learner-website.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Invertea_Learner_Website)
+
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Maheshwari-778&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&ring_color=667eea" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Abhishek-Maheshwari-778&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Maheshwari-778&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Maheshwari-778&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Maheshwari-778&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## Certifications
-
-<p align="center">
-  <a href="https://partner.cloudskillsboost.google/public_profiles/3bc365c1-e452-4328-9d7b-5bbd64c99f21">
-    <img src="https://img.shields.io/badge/Google_Cloud-Profile_1-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/e26d1820-fce8-4d3c-a20a-5853210cea6f">
-    <img src="https://img.shields.io/badge/Google_Cloud-Profile_2-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/abhishek-maheshwari.cfa5f896">
-    <img src="https://img.shields.io/badge/View_All_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## Let's Connect
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&lines=Open+to+Collaborations+%F0%9F%A4%9D;Always+Learning+New+Things+%F0%9F%93%9A;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abhishek-Maheshwari-778">
-    <img src="https://img.shields.io/github/followers/Abhishek-Maheshwari-778?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/Abhishek-Maheshwari-778?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Abhishek-Maheshwari-778?label=Total%20Stars&style=social" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-</p>
+## GitHub Statistics
 
 <div align="center">
-  <br/>
-  
-  **Thanks for visiting! If you like my work, consider giving a ⭐ to my repositories**
-  
-  <sub>Made with 💜 by Abhishek Maheshwari</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Maheshwari-778&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Maheshwari-778&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Maheshwari-778&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="48%" />
+
+</div>
+
+---
+
+## Certifications & Learning
+
+<div align="center">
+
+[![Google Cloud Profile 1](https://img.shields.io/badge/Google_Cloud-Profile_1-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://partner.cloudskillsboost.google/public_profiles/3bc365c1-e452-4328-9d7b-5bbd64c99f21)
+[![Google Cloud Profile 2](https://img.shields.io/badge/Google_Cloud-Profile_2-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/e26d1820-fce8-4d3c-a20a-5853210cea6f)
+[![Credly Certifications](https://img.shields.io/badge/View_All_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abhishek-maheshwari.cfa5f896)
+
+</div>
+
+---
+
+<div align="center">
+
+## Let's Connect and Collaborate
+
+**If you found my projects useful, please consider giving them a star!**
+
+[![GitHub followers](https://img.shields.io/github/followers/Abhishek-Maheshwari-778?style=social)](https://github.com/Abhishek-Maheshwari-778)
+[![GitHub stars](https://img.shields.io/github/stars/Abhishek-Maheshwari-778?style=social)](https://github.com/Abhishek-Maheshwari-778)
+
+<br/>
+
+**Made with 💜 by Abhishek Maheshwari**
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
 </div>
