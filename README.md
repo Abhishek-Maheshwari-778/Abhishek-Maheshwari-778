@@ -380,8 +380,7 @@ Educational platform website with course information, student resources, and int
 
 **If you found my projects useful, please consider giving them a star!**
 
-[![GitHub followers](https://img.shields.io/github/followers/Abhishek-Maheshwari-778?style=social)](https://github.com/Abhishek-Maheshwari-778)
-[![GitHub stars](https://img.shields.io/github/stars/Abhishek-Maheshwari-778?style=social)](https://github.com/Abhishek-Maheshwari-778)
+[![Follow Me](https://img.shields.io/github/followers/Abhishek-Maheshwari-778?label=Follow%20Me&style=social)](https://github.com/Abhishek-Maheshwari-778)
 
 </div>
 
