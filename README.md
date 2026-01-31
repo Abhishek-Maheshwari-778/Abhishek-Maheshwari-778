@@ -2,9 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=ABHISHEK%20MAHESHWARI&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Transforming%20Data%20Into%20Insights&descAlignY=55&descSize=25" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Analyst+%7C+Python+Developer;Power+BI+Specialist+%7C+Web+Developer;Final+Year+BCA+%40+Invertis+University" alt="Typing SVG" />
-</p>
+<h3 align="center">Data Analyst | Python Developer | Power BI Specialist | Web Developer</h3>
+<h4 align="center">Final Year BCA @ Invertis University</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishekmaheshwari2436"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -19,7 +18,7 @@
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+## About Me
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif"/>
 
@@ -54,10 +53,10 @@ currently_learning:
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Arsenal
+## Tech Arsenal
 
-<details open>
-<summary><b>🔍 Click to explore my tech stack</b></summary>
+<details>
+<summary><b>Click to expand tech stack</b></summary>
 <br/>
 
 <table>
@@ -124,7 +123,7 @@ currently_learning:
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Power BI & Analytics Showcase
+## Power BI & Analytics Showcase
 
 <div align="center">
 
@@ -147,7 +146,7 @@ currently_learning:
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> Live Web Projects
+## Live Web Projects
 
 <div align="center">
 
@@ -205,7 +204,7 @@ currently_learning:
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Maheshwari-778&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&ring_color=667eea" />
@@ -227,7 +226,7 @@ currently_learning:
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d7e993-3f9a-4f3c-8f1e-e0d8f6598f85.png" width="30" /> Certifications
+## Certifications
 
 <p align="center">
   <a href="https://partner.cloudskillsboost.google/public_profiles/3bc365c1-e452-4328-9d7b-5bbd64c99f21">
@@ -247,7 +246,7 @@ currently_learning:
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Let's Connect
+## Let's Connect
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&lines=Open+to+Collaborations+%F0%9F%A4%9D;Always+Learning+New+Things+%F0%9F%93%9A;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
@@ -267,7 +266,7 @@ currently_learning:
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <br/>
   
   **Thanks for visiting! If you like my work, consider giving a ⭐ to my repositories**
   
