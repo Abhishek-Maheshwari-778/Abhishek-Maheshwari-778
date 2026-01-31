@@ -13,7 +13,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 **Hey there!** I'm a **final-year BCA student** at Invertis University, passionate about turning raw data into meaningful stories. I specialize in building **data-driven solutions**, creating **interactive dashboards**, and developing **clean web applications**.
 
@@ -394,9 +394,9 @@ Educational platform website with course information, student resources, and int
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Contribution Activity
+## GitHub Streak & Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Maheshwari-778&custom_title=Abhishek's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area_color=7F3FBF&title_color=FFFFFF&area=true" alt="Contribution Graph" width="95%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Maheshwari-778&theme=radical&hide_border=true&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="95%">
 
 <br/>
 
