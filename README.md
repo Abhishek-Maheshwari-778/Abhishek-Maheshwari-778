@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Hey there!** I'm a **final-year BCA student** at Invertis University, passionate about turning raw data into meaningful stories. I specialize in building **data-driven solutions**, creating **interactive dashboards**, and developing **clean web applications**.
+**Hey there!** I'm a **BCA Graduate** from **Invertis University**, passionate about turning raw data into meaningful stories. I specialize in building **data-driven solutions**, creating **interactive dashboards**, and developing **analytics-focused applications**.
 
 ### What I Do
 
