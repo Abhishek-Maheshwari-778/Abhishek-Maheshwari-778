@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Maheshwari-778&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Maheshwari-778&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Abhishek-Maheshwari-778&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhishek-Maheshwari-778&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Maheshwari-778&theme=tokyonight&hide_border=true"/>
 
@@ -175,6 +175,27 @@
 - ☁️ **Google Cloud Data Analytics Certified**
 - 🏫 **Active Member** — Abhiruchi Club, Invertis University (2023–24)
 - 👨‍🏫 **CS & IT Educator** — Teaching & mentoring the 2026 batch
+
+---
+
+## 💼 Services & Offerings — What I Can Do For You
+
+<div align="center">
+
+| 🛠️ Service | 💡 What I Deliver | 🎯 Ideal For |
+|---|---|---|
+| 🌐 **Website Development** | Responsive, modern websites, landing pages, and portfolio sites | Businesses, startups, personal branding |
+| 📱 **Mobile & Windows App Dev** | Android apps (AI-powered with Gemini API) & Windows desktop software | Tools, automation, productivity apps |
+| 💻 **Custom Software & Web Apps** | End-to-end web apps, automation scripts, and custom software utilities | Business workflow automation & MVPs |
+| 📊 **Data Dashboards & BI** | Interactive Power BI, SQL analysis & Excel management dashboards | Data-driven decision making & reporting |
+| 🤖 **IoT & Automation Prototypes** | Smart device integration, sensor setups (Arduino/Raspberry Pi) | IoT proof-of-concept & smart projects |
+| 👨‍🏫 **Contract Trainer & Teacher** | Corporate/institutional training in CS fundamentals, Python, Data & AI | Schools, colleges, coding bootcamps & teams |
+
+<br/>
+
+> 💬 **Have a project or looking for a contract trainer/developer?** Let's connect and discuss your vision!
+
+</div>
 
 ---
 
