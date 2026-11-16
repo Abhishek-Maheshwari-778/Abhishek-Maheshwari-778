@@ -24,7 +24,7 @@
 - 🧠 Passionate about **AI tools, embedded systems & teaching tech**
 - 📍 Based in **Bilsi, Badaun, Uttar Pradesh, India**
 - 🔭 Currently building: **AI-powered tools & Android apps**
-- 📫 Reach me: **abhishekmaheshwari2426@gmail.com** | **+91 9837067092**
+- 🎓 Currently pursuing: **MCA — Chandigarh University (CU Online)**
 
 ---
 
@@ -190,6 +190,7 @@
 
 | Institution | Degree | Year | Score |
 |---|---|---|---|
+| Chandigarh University (CU Online) | MCA — Master of Computer Applications | Currently Pursuing | — |
 | Invertis University, Bareilly | BCA — Bachelor of Computer Applications | 2023–2026 | 7.6 CGPA |
 | Baba International School | Class XII | 2023 | — |
 | Baba International School | Class X | 2021 | — |
