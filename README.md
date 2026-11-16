@@ -217,8 +217,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Maheshwari-778&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Maheshwari-778&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
-
 </div>
 
 ---
