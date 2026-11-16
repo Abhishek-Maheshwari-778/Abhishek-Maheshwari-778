@@ -1,97 +1,68 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ABHISHEK MAHESHWARI — GitHub Profile README
+     Designed for 2026 AI Era · Modern 3D · Multi-Persona Appeal
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Maheshwari&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20|%20Python%20Developer%20|%20Power%20BI%20Specialist&descSize=20&descAlignY=55)
+<!-- ░░░░░░░░░░░░░░░░░░░░░  ANIMATED HEADER BANNER  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekmaheshwari2436)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-maheshwari-778.github.io/Ultimate_GitHub_Profile_Collection_website/)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abhishek-maheshwari.cfa5f896)
-![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Maheshwari-778&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Abhishek%20Maheshwari&fontSize=55&fontColor=00d4ff&color=0:0a0a2e,50:0d1b4b,100:0a0a2e&stroke=00d4ff&strokeWidth=2&animation=fadeIn&desc=Building%20the%20Future%20with%20AI%20%7C%20IoT%20%7C%20Data%20%7C%20Robotics&descSize=18&descAlignY=75&descColor=a0c4ff" width="100%"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░  ANIMATED TYPING ROLES  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=🤖+AI+%26+IoT+Engineer;📊+Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;🏫+CS+Educator+%7C+Shaping+Future+Tech+Minds;🛸+Robotics+Builder+%7C+3rd+Place+Robo+Rumble+2024;📱+Android+%26+Windows+App+Developer;🧠+Embedded+Systems+%7C+Arduino+%7C+Automation;☁️+Google+Cloud+Certified+%7C+AI+Explorer)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  SOCIAL PROOF BADGES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Maheshwari-778&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Abhishek-Maheshwari-778)
+[![GitHub Followers](https://img.shields.io/github/followers/Abhishek-Maheshwari-778?style=for-the-badge&color=0096FF&logo=github&label=FOLLOWERS)](https://github.com/Abhishek-Maheshwari-778?tab=followers)
+[![Repos](https://img.shields.io/badge/55%2B-REPOSITORIES-00d4ff?style=for-the-badge&logo=github)](https://github.com/Abhishek-Maheshwari-778?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhishekmaheshwari2436)
 
 </div>
 
 ---
 
-## About Me
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  WHO AM I — IDENTITY CARD  ░░░░░░░░░░░░░░░░░░░ -->
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-**Hey there!** I'm a **BCA Graduate** from **Invertis University**, passionate about turning raw data into meaningful stories. I specialize in building **data-driven solutions**, creating **interactive dashboards**, and developing **analytics-focused applications**.
-
-### What I Do
-
-- **Data Analytics**: Transform complex datasets into actionable insights using Python, SQL, and Excel
-- **Business Intelligence**: Build stunning dashboards in Power BI & Tableau with advanced DAX
-- **Machine Learning**: Develop predictive models and deep learning solutions
-- **Web Development**: Create full-stack applications using MERN stack
-
-### Currently Exploring
-
-- Advanced DAX Measures & Power BI
-- Time Series Analysis & Deep Learning
-- Cloud Platforms (Google Cloud Platform, Azure)
-- Full-Stack Web Development (React.js, Node.js, MongoDB)
-- Goal: Become a Full-Stack Data Scientist
-
-### Fun Fact
-
-> *I believe the best insights come from blending beautiful design with powerful data!*
-
-<br clear="right"/>
-
----
-
-## Tech Stack
-
-<table>
+<table align="center" width="98%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-**Data Analytics & Business Intelligence**
+## 🧑‍💻 Who Am I?
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+```yaml
+name        : Abhishek Maheshwari
+location    : Bilsi, Badaun, Uttar Pradesh, India
+education   : BCA — Invertis University (2023–2026)
+              CGPA: 7.6 / 10
 
-</td>
-<td width="50%" valign="top">
+current_role: Computer Science Teacher
+              Bhoo Devi Varshney Inter College
+              (Full-time | Jul 2026 – Present)
 
-**Programming & Databases**
+passion     :
+  - Building AI-powered tools & apps
+  - IoT / Robotics / Embedded Systems
+  - Teaching & Mentoring Tech Students
+  - Data Analytics & Visualization
+  - Android & Windows App Development
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+superpower  : Turning hardware + software + data
+              into real-world impact 🚀
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-**Tools & Platforms**
+## 📊 GitHub At a Glance
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Maheshwari-778&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Maheshwari-778&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" width="100%"/>
 
 </td>
 </tr>
@@ -99,132 +70,201 @@
 
 ---
 
-## Data Analytics & Business Intelligence Projects
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  3D CONTRIBUTION GRAPH  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<table>
+<div align="center">
+
+## 🌐 3D Contribution Landscape
+
+> *Auto-generated daily via GitHub Actions — real commits, real grind* 💪
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek-Maheshwari-778/Abhishek-Maheshwari-778/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek-Maheshwari-778/Abhishek-Maheshwari-778/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/Abhishek-Maheshwari-778/Abhishek-Maheshwari-778/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
+</picture>
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  MULTI-DOMAIN EXPERTISE  ░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+## ⚡ Tech Stack — Full Spectrum
+
+</div>
+
+<table align="center" width="98%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### SuperStore Sales Power BI Dashboard
-**Power BI | DAX | Data Visualization**
-
-Interactive Power BI dashboard analyzing sales, profits, discounts, and shipping trends across regions with DAX formulas and KPIs.
-
-**Key Features:**
-- Total Sales & Profit Margins
-- Regional performance analysis
-- Top Categories tracking
-- Interactive visualizations
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/SuperStore_Sales_PowerBI)
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### Retail Sales Analysis
-**Python | Pandas | NumPy**
+### 📊 Data & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C8DBC?style=flat-square&logo=python&logoColor=white)
 
-Data cleaning, transformation, and analysis on large retail dataset generating sales trends, regional performance, and product category breakdowns.
+</td>
+<td align="center" width="25%">
 
-**Key Features:**
-- Sales trends analysis
-- Regional performance metrics
-- Product category insights
-- Strategic business insights
+### 🛸 IoT & Robotics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC_Programming-FF6600?style=flat-square&logo=siemens&logoColor=white)
+![Home Automation](https://img.shields.io/badge/Home_Automation-00C8FF?style=flat-square&logo=homeassistant&logoColor=white)
+![Sensors](https://img.shields.io/badge/DHT11_PIR_LDR-green?style=flat-square)
+![Motor Driver](https://img.shields.io/badge/L298N_Servo-orange?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Retail_Sales_Analysis_Project)
+</td>
+<td align="center" width="25%">
+
+### 📱 App & Dev Tools
+![Android](https://img.shields.io/badge/Android_App_Dev-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Windows App](https://img.shields.io/badge/Windows_App_Dev-0078D4?style=flat-square&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 
 </td>
 </tr>
+</table>
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,arduino,mysql,git,github,vscode,tensorflow,androidstudio,linux,windows,powerbi,figma&theme=dark&perline=12" />
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░  EXPERIENCE TIMELINE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 💼 Experience & Journey
+
+```
+  2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏫  COMPUTER SCIENCE TEACHER                         [Jul 2026 – Present]
+      Bhoo Devi Varshney Inter College · Full-time · On-site
+      ✦ Teaching CS & IT fundamentals to secondary/higher-secondary students
+      ✦ Conducting hands-on computer lab sessions for coding & software
+      ✦ Mentoring students in problem-solving, logical reasoning & tech skills
+      ✦ Integrating interactive tools and AI-powered resources into lessons
+      ✦ Assessing student progress with structured evaluation frameworks
+  ───────────────────────────────────────────────────────────────────────────
+  2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🤖  INDUSTRIAL AUTOMATION VIRTUAL INTERN             [Oct – Dec 2025]
+      EduSkills Foundation (AICTE) · Remote · Govt. of India Certified
+      ✦ 10-week AICTE program under National Internship Portal, MoE
+      ✦ PLC programming, control systems, IoT integration
+      ✦ Industrial sensors, actuators & automation scripting
+  ───────────────────────────────────────────────────────────────────────────
+  ☁️  GOOGLE DATA ANALYTICS VIRTUAL INTERN             [Apr – Jun 2025]
+      EduSkills / Google Cloud · Remote
+      ✦ Queried large datasets using BigQuery & Looker Studio
+      ✦ Data storytelling, dashboard creation & insight generation
+  ───────────────────────────────────────────────────────────────────────────
+  2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📊  DATA SCIENCE & ANALYTICS INTERN                  [Jun – Aug 2024]
+      Zidio Development · Remote
+      ✦ Applied Python, Pandas, NumPy in real-world data projects
+      ✦ Strengthened analytical thinking & visualization skills
+  ───────────────────────────────────────────────────────────────────────────
+  🐍  PYTHON PROGRAMMING INTERN                        [Aug – Sep 2024]
+      CodeAlpha · Remote
+      ✦ Built Python apps: Hangman Game, Chatbot, Automation Scripts
+      ✦ Strengthened logic building & modular coding practices
+  ───────────────────────────────────────────────────────────────────────────
+  🎪  TECHNICAL EVENT ORGANIZER                        [2024 – 2025]
+      Technova Fest · BCA Dept., Invertis University
+      ✦ Organized C Combat, HackerRank challenges, Office Essentials events
+      ✦ Managed lab coordination, scheduling & participant flow
+  ───────────────────────────────────────────────────────────────────────────
+```
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🚀 Featured Projects
+
+<!-- ── DATA & ANALYTICS ── -->
+### 📊 Data & Analytics Projects
+
+<table align="center" width="98%">
 <tr>
 <td width="50%" valign="top">
 
-### Pizza Sales Data Analysis
-**SQL | MySQL**
+**📊 SuperStore Sales Power BI Dashboard**
+> Interactive business intelligence dashboard with real-time KPI tracking
 
-Analyzed pizza sales data using MySQL to identify trends like peak order times, top pizzas, and customer preferences using aggregate functions, JOINS, and CTEs.
+- 🛠️ `Power BI` · `DAX` · `Data Modeling`
+- 📌 Sales, profits, discounts & shipping trends across regions
+- 📌 DAX formulas for Total Sales, Profit Margins, Top Categories
+- 📌 Multi-page interactive visual report
 
-**Key Features:**
-- Customer behavior analysis
-- Peak hours identification
-- Top-selling items tracking
-- Business KPIs extraction
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Pizza_Sales_Data_Analysis_Using_SQL)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-Maheshwari-778/SuperStore_Sales_PowerBI)
 
 </td>
 <td width="50%" valign="top">
 
-### Vrinda Store Report
-**Microsoft Excel | Pivot Tables**
+**🛍️ Vrinda Store Excel Dashboard**
+> End-to-end sales analytics dashboard built in Excel
 
-Interactive Excel dashboard tracking monthly sales, profits, and top-performing products using Pivot Tables, VLOOKUP, Conditional Formatting, and Charts.
+- 🛠️ `Excel` · `Pivot Tables` · `VLOOKUP` · `Charts`
+- 📌 Monthly sales, profits & top-performing product tracking
+- 📌 Conditional formatting & dynamic chart visuals
+- 📌 Business-ready reporting for stakeholders
 
-**Key Features:**
-- Monthly sales tracking
-- Profit analysis
-- Top products identification
-- Visual business insights
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Vrinda_Store_Report_Using_Excel)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-Maheshwari-778/Vrinda_Store_Report_Using_Excel)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### E-Commerce Sales Dashboard
-**Python | Matplotlib | Plotly**
+**🍕 Pizza Sales Data Analysis — SQL**
+> Deep-dive SQL analysis to uncover business insights from sales data
 
-Dashboard visualizing orders, revenue & category trends using Python data libraries with interactive plots and comprehensive business metrics.
+- 🛠️ `MySQL` · `JOINs` · `CTEs` · `Aggregate Functions`
+- 📌 Peak order times, top-selling pizzas & customer preferences
+- 📌 Meaningful KPIs extracted for business decision-making
+- 📌 Complex multi-table query design
 
-**Key Features:**
-- Order trend analysis
-- Revenue visualization
-- Category performance
-- Interactive charts
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Ecommerce_Sales_Analysis_Dashboard)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-Maheshwari-778/Pizza_Sales_Data_Analysis_Using_SQL)
 
 </td>
 <td width="50%" valign="top">
 
-### COVID-19 Data Analysis
-**Python | Data Visualization**
+**🐍 Retail Sales Analysis — Python**
+> Large-scale retail dataset analysis with Python data science stack
 
-Analyzed COVID-19 datasets to visualize cases, trends, and insights using time-series analysis and geographical visualization.
+- 🛠️ `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+- 📌 Data cleaning, transformation & exploratory data analysis
+- 📌 Regional performance & product category breakdowns
+- 📌 Strategic insights for retail decision-making
 
-**Key Features:**
-- Time-series analysis
-- Geographical visualization
-- Trend prediction
-- Statistical modeling
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/COVID_19_Data_Analysis_Visualization)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Walmart Sales Analysis
-**Python | Data Analytics**
-
-Exploratory data analysis to identify sales patterns, trends, and seasonal patterns with comprehensive performance metrics.
-
-**Key Features:**
-- Sales pattern identification
-- Trend analysis
-- Seasonal insights
-- Performance tracking
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/walmart_sales_project)
-
-</td>
-<td width="50%" valign="top">
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-Maheshwari-778/Retail_Sales_Analysis_Project)
 
 </td>
 </tr>
@@ -232,188 +272,311 @@ Exploratory data analysis to identify sales patterns, trends, and seasonal patte
 
 ---
 
-## Machine Learning & Deep Learning Projects
+<!-- ── IoT & ROBOTICS ── -->
+### 🤖 IoT & Robotics Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Potato Disease Classification
-**Deep Learning | CNN | TensorFlow**
-
-Built a convolutional neural network to classify potato leaf diseases from images with image preprocessing and CNN architecture design.
-
-**Key Features:**
-- Image preprocessing
-- CNN architecture
-- Disease classification
-- Performance evaluation
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Potato_Disease_Classification)
-
-</td>
-<td width="50%" valign="top">
-
-### Image Captioning & Segmentation
-**Computer Vision | Deep Learning**
-
-Implemented image captioning and segmentation using computer vision techniques with visual-to-text mapping and image understanding pipelines.
-
-**Key Features:**
-- Image captioning
-- Image segmentation
-- Visual-to-text mapping
-- Computer vision techniques
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Image_Captioning_and_Segmentation_App)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Retail Sales Prediction
-**Machine Learning | Scikit-learn**
-
-Built ML models to predict retail sales using historical data with feature engineering and regression analysis.
-
-**Key Features:**
-- ML regression models
-- Feature engineering
-- Sales forecasting
-- Model optimization
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Retail_Sales_Prediction_Using_Machine_Learning)
-
-</td>
-<td width="50%" valign="top">
-
-### Time Series Stock Market
-**Python | Time Series Analysis**
-
-Analyzed stock market trends using historical price data with time-series analysis techniques for forecasting insights.
-
-**Key Features:**
-- Time-series analysis
-- Stock trend prediction
-- Forecasting models
-- Historical data analysis
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Time_Series_Stock_Market)
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Web Development Projects
-
-<table>
+<table align="center" width="98%">
 <tr>
 <td width="33%" valign="top">
 
-### Ultimate GitHub Profile Collection
-**HTML | CSS | JavaScript**
+**🏎️ Monster Car — Robotics**
+> 🥉 **3rd Place — Robo Rumble, Invertia 2024**
 
-A curated collection of 400+ animated assets and 15+ templates for creating stunning GitHub profiles.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ultimate-git-hub-profile-collection.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Ultimate_GitHub_Profile_Collection_website)
+- 🛠️ `Arduino` · `L298N` · `Embedded C`
+- 📌 Wireless-controlled robotic car
+- 📌 Obstacle handling & motion control
+- 📌 Competition-winning design
 
 </td>
 <td width="33%" valign="top">
 
-### MCX Trading Website
-**HTML | CSS | JavaScript | API**
+**🏠 Smart Home Automation**
+> Real-world IoT home automation system
 
-Commodity trading information website with live market data, calculators, and real-time news integration.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://mcxindia.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/mcx_website)
+- 🛠️ `Arduino` · `LDR` · `DHT11` · `Relay`
+- 📌 Auto-controls appliances via sensor data
+- 📌 Light, temperature & humidity detection
+- 📌 Relay-based switching logic
 
 </td>
 <td width="33%" valign="top">
 
-### Invertea Learner Website
-**HTML | CSS | JavaScript**
+**🔐 Smart Locker Security**
+> Keypad-based access control system
 
-Educational platform website with course information, student resources, and interactive learning materials.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://invertea-learner-website.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778/Invertea_Learner_Website)
+- 🛠️ `Arduino` · `Keypad` · `Servo Motor`
+- 📌 Password-protected physical lock
+- 📌 Servo actuation on correct input
+- 📌 Input-output logic & control systems
 
 </td>
 </tr>
 </table>
 
+---
 
+<!-- ── PYTHON & AI ── -->
+### 🧠 Python & AI Projects
 
-## GitHub Statistics
+<table align="center" width="98%">
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI Chatbot — Python**
+> Conversational chatbot with NLP logic
+
+- 🛠️ `Python` · `NLP` · `Logic Building`
+- 📌 Built during CodeAlpha internship
+- 📌 Rule-based response system
+- 📌 Modular, extensible architecture
+
+</td>
+<td width="50%" valign="top">
+
+**🎮 Hangman Game + Automation Scripts**
+> Python mini-apps from CodeAlpha internship
+
+- 🛠️ `Python` · `Logic Building` · `Automation`
+- 📌 Classic Hangman with word bank
+- 📌 Automation scripts for repetitive tasks
+- 📌 Clean, well-commented code
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Abhishek-Maheshwari-778?label=Followers&style=for-the-badge&color=blue)](https://github.com/Abhishek-Maheshwari-778)
-[![GitHub stars](https://img.shields.io/github/stars/Abhishek-Maheshwari-778?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/Abhishek-Maheshwari-778?tab=repositories)
-[![GitHub repos](https://img.shields.io/badge/Public%20Repos-30+-green?style=for-the-badge)](https://github.com/Abhishek-Maheshwari-778?tab=repositories)
+[![All Repos](https://img.shields.io/badge/🗂️_View_All_55%2B_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Abhishek-Maheshwari-778?tab=repositories)
 
 </div>
 
 ---
 
-## Certifications & Learning
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  GITHUB STATS GRID  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-[![Google Cloud Profile 1](https://img.shields.io/badge/Google_Cloud-Profile_1-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://partner.cloudskillsboost.google/public_profiles/3bc365c1-e452-4328-9d7b-5bbd64c99f21)
-[![Google Cloud Profile 2](https://img.shields.io/badge/Google_Cloud-Profile_2-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/e26d1820-fce8-4d3c-a20a-5853210cea6f)
-[![Credly Certifications](https://img.shields.io/badge/View_All_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abhishek-maheshwari.cfa5f896)
+## 📈 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Maheshwari-778&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="38%" />
+&nbsp;&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Maheshwari-778&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="58%" />
 
 </div>
 
 ---
 
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  CERTIFICATIONS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🏅 Certifications & Credentials
+
 <div align="center">
 
-## Let's Connect and Collaborate
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!;Open+to+new+opportunities!" alt="Typing SVG" />
-
-<br/>
-
-**If you found my projects useful, please consider giving them a star!**
-
-[![Follow Me](https://img.shields.io/github/followers/Abhishek-Maheshwari-778?label=Follow%20Me&style=social)](https://github.com/Abhishek-Maheshwari-778)
+| 🎖️ Certification | 🏛️ Issuer | 📅 Year |
+|:---|:---|:---:|
+| 🏭 AICTE Industrial Automation Internship | EduSkills Foundation / AICTE, MoE | 2025 |
+| ☁️ Google Data Analytics Certificate | Google Cloud / EduSkills | 2024–25 |
+| 📊 Data Analysis with Python | IBM | 2024 |
+| 📉 Data Visualization with Python | IBM | 2024 |
+| 🐍 Python Intermediate | Sololearn | 2024 |
+| 🗄️ Python MySQL | Great Learning | 2024 |
 
 </div>
 
 ---
 
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  AI ERA SKILLS 2026  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🧠 AI-Era Skills — 2026 Edition
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Maheshwari-778&custom_title=Abhishek's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area_color=7F3FBF&title_color=FFFFFF&area=true" alt="Contribution Graph" width="95%">
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     🤖 WHAT I CAN BUILD WITH AI                        ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  📱 Android Apps         — AI-powered mobile apps using Gemini API      ║
+║  🖥️ Windows Apps         — Desktop automation tools & productivity apps  ║
+║  🤖 AI Chatbots          — Custom bots using LLMs & prompt engineering   ║
+║  📊 Intelligent Dashboards — ML-enhanced Power BI & data reports         ║
+║  🛸 Smart IoT Systems    — Arduino + AI edge intelligence & automation   ║
+║  🏫 EdTech AI Tools      — Personalized learning, quiz generators,       ║
+║                            student progress analytics, AI-graded tests   ║
+║  🔄 Automation Scripts   — Workflow automation with Python + AI APIs     ║
+║  🧩 RAG Systems          — Retrieval-augmented generation pipelines      ║
+║  🧠 AI Prompt Engineering— Designing effective prompts for GPT/Gemini    ║
+║  🗣️ Voice Assistants     — Python + speech recognition + TTS integration ║
+║  📡 IoT + Cloud          — Sensor data → Cloud → AI insight pipelines    ║
+║  🎓 AI Curriculum Design — Designing AI & coding lessons for school labs  ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  WHO CAN CONNECT WITH ME  ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🤝 Whether You're a...
+
+<table align="center" width="98%">
+<tr>
+<td align="center" width="16%">
+
+**🏢 Entrepreneur**
+<br/>I turn ideas into working MVPs — apps, dashboards, automation tools, IoT prototypes.
+
+</td>
+<td align="center" width="16%">
+
+**👔 Business Executive**
+<br/>I make data speak — Power BI, SQL insights, Excel dashboards that drive decisions.
+
+</td>
+<td align="center" width="16%">
+
+**💼 HR / Recruiter**
+<br/>3 internships, AICTE certification, 55+ repos, teaching experience, real project portfolio.
+
+</td>
+<td align="center" width="16%">
+
+**🔬 DRDO / Defense**
+<br/>Robotics + embedded systems + IoT + automation — robotics competition winner, sensor expertise.
+
+</td>
+<td align="center" width="16%">
+
+**🎓 IIT / Research**
+<br/>Arduino projects, PLC, Python ML, data analysis — solid CS fundamentals + hardware skills.
+
+</td>
+<td align="center" width="16%">
+
+**🧑‍💻 Tech Professional**
+<br/>Python · SQL · Power BI · IoT · AI/ML · Android · Git — full-spectrum modern stack.
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<br/>
-
-**Made with 💜 by Abhishek Maheshwari**
-
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+### ...I've got something to offer you. Let's connect! 👇
 
 </div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░  EDUCATION  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏫 Institution | 📚 Degree / Level | 📅 Year | 🏆 Score |
+|:---|:---|:---:|:---:|
+| **Invertis University, Bareilly** | BCA — Bachelor of Computer Applications | 2023–2026 | 7.6 CGPA |
+| **Baba International School** | Class XII | 2023 | — |
+| **Baba International School** | Class X | 2021 | — |
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+```
+🥉  3rd Position — Robo Rumble, Invertia 2024 (Monster Car Robotics Project)
+🎪  Organizing Committee Member — Technova Fest 2024–25
+🎓  AICTE-Certified National Internship (Ministry of Education, Govt. of India)
+☁️  Google Cloud Data Analytics Certified
+🏫  Active Member — Abhiruchi Club, Invertis University (2023–24)
+👨‍🏫  CS & IT Educator — Teaching & Mentoring 2026 Batch Students
+```
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  GITHUB ACTIONS: 3D GRAPH  ░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## ⚙️ Auto-Updating 3D Graph Setup
+
+> Add this workflow file to `.github/workflows/profile-3d.yml` in your profile repo to auto-generate the 3D contribution graph above:
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Runs every day at 18:00 UTC
+  workflow_dispatch:        # Trigger manually from Actions tab
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "🤖 Auto: Generated 3D Contribution Graph" || exit 0
+          git push
+```
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  CONNECT SECTION  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 📡 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Maheshwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekmaheshwari2436)
+[![Gmail](https://img.shields.io/badge/Gmail-abhishekmaheshwari2426@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmaheshwari2426@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Abhishek--Maheshwari--778-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_9837067092-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919837067092)
+
+<br/>
+
+> 🌍 **Location:** Bilsi, Badaun, Uttar Pradesh, India — Open to Remote Opportunities
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  ACTIVITY GRAPH  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+## 📉 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Maheshwari-778&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=00d4ff20" width="100%"/>
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  FOOTER BANNER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a2e,50:0d1b4b,100:00d4ff&section=footer&reversal=false&text=Thanks%20for%20visiting!%20⭐%20Star%20a%20repo%20if%20you%20like%20it!&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<sub>🤖 <i>README auto-updated · Built with ❤️ in India · 2026 AI Era</i></sub>
+
+</div>
+
