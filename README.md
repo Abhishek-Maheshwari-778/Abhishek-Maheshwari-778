@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Maheshwari-778&style=for-the-badge&color=0096FF&label=PROFILE+VIEWS)](https://github.com/Abhishek-Maheshwari-778)
 [![GitHub followers](https://img.shields.io/github/followers/Abhishek-Maheshwari-778?style=for-the-badge&color=0096FF&logo=github)](https://github.com/Abhishek-Maheshwari-778?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekmaheshwari2436)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmaheshwari2426@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Abhishek-Maheshwari-778)
 
 </div>
 
@@ -18,7 +18,7 @@
 ## 👋 About Me
 
 - 🏫 **CS Teacher** at Bhoo Devi Varshney Inter College *(Jul 2026 – Present)*
-- 🎓 **BCA Final Year** — Invertis University, Bareilly | CGPA: **7.6 / 10**
+- 🎓 **BCA Graduate** — Invertis University, Bareilly
 - 🤖 Built a **competition-winning robotic car** (3rd Place, Robo Rumble 2024)
 - 📊 Interned in **Data Science, IoT Automation & Google Cloud Analytics**
 - 🧠 Passionate about **AI tools, embedded systems & teaching tech**
@@ -188,23 +188,32 @@
 
 ## 🎓 Education
 
-| Institution | Degree | Year | Score |
-|---|---|---|---|
-| Chandigarh University (CU Online) | MCA — Master of Computer Applications | Currently Pursuing | — |
-| Invertis University, Bareilly | BCA — Bachelor of Computer Applications | 2023–2026 | 7.6 CGPA |
-| Baba International School | Class XII | 2023 | — |
-| Baba International School | Class X | 2021 | — |
+| Institution | Degree | Year |
+|---|---|---|
+| Chandigarh University (CU Online) | MCA — Master of Computer Applications | Currently Pursuing |
+| Invertis University, Bareilly | BCA — Bachelor of Computer Applications | 2023–2026 |
+| Baba International School | Class XII | 2023 |
+| Baba International School | Class X | 2021 |
 
 ---
 
-## 📡 Connect With Me
+## 📡 Connect & Profiles
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Maheshwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekmaheshwari2436)
-[![Gmail](https://img.shields.io/badge/Gmail-abhishekmaheshwari2426%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmaheshwari2426@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Abhishek--Maheshwari--778-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_9837067092-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919837067092)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Abhishek-Maheshwari-778)
+[![Credly Profile 1](https://img.shields.io/badge/Credly-Profile_1-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abhishek-maheshwari.cfa5f896)
+[![Credly Profile 2](https://img.shields.io/badge/Credly-Profile_2-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abhishek-maheshwari)
+
+<br/>
+
+[![Google Cloud Skill Boost 1](https://img.shields.io/badge/Google_Cloud-Profile_1-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://partner.cloudskillsboost.google/public_profiles/3bc365c1-e452-4328-9d7b-5bbd64c99f21)
+[![Google Cloud Skill Boost 2](https://img.shields.io/badge/Google_Cloud-Profile_2-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/e26d1820-fce8-4d3c-a20a-5853210cea6f)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://basic-portfolio-website-dun.vercel.app)
+
+<br/>
 
 📍 **Bilsi, Badaun, Uttar Pradesh, India** · Open to Remote Opportunities
 
